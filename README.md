@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinwheeler&label=Profile%20views&color=0e75b6&style=flat" alt="martinwheeler" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinwheeler&title=Commits,Repositories,Followers,PullRequest,Stars,Issues" alt="martinwheeler" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinwheeler&title=Commits,Repositories,Followers,PullRequest,Stars,Issues" alt="martinwheeler" /></a> </p> 
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -17,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/martinwheeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="martinwheeler" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/martinwheeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinwheeler" height="30" width="40" /></a>
-<a href="https://codesandbox.com/martinwheeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="martinwheeler" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/martin-g-wheeler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martinwheeler" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
